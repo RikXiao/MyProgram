@@ -1,4 +1,7 @@
 package NiuKe;
 
 
-public class test{}
+public class test{
+	
+	String aString;
+}
