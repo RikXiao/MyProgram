@@ -6,7 +6,7 @@ public class test{
 	private void pulic() {
 		// TODO Auto-generated method stub
      nameString = "新建分支";
-	
+	code = "name123";
 	}
 	
 }
